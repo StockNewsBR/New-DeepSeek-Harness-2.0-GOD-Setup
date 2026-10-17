@@ -1,3 +1,8 @@
+<p align="center">
+  🌐 <strong>Documentation / Documentação / Documentación</strong><br>
+  <a href="README.md">🇺🇸 English</a> · <a href="README.pt-BR.md">🇧🇷 Português (Brasil)</a> · <a href="README.es.md">🇪🇸 Español</a>
+</p>
+
 <div align="center">
 
 # ⚡ DEEPSEEK HARNESS 2.0
