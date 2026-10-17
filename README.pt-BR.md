@@ -194,7 +194,7 @@ Guia de arquitetura · Não é instalador pronto · Sem afiliação com os forne
 
 ### 🤝 Patrocínio / Sponsored by
 
-<a href="https://iamarketmaster.com"><img src="./assets/sponsors.svg" alt="Patrocínio AI Market Master e StockNewsBR" width="850"></a>
+<a href="https://iamarketmaster.com"><img src="https://raw.githubusercontent.com/StockNewsBR/New-DeepSeek-Harness-2.0-GOD-Setup/main/assets/unnamed.png" alt="Patrocínio AI Market Master e StockNewsBR" width="850"></a>
 
 [AI Market Master](https://iamarketmaster.com) · [StockNewsBR](https://stocknewsbr.com)
 
