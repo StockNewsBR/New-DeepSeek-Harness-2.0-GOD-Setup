@@ -352,3 +352,15 @@ The goal is not to pretend that one AI beats every other model. The goal is **a 
 **Architecture guide · Not a ready-to-run installer · No affiliation with vendor products listed above**
 
 </div>
+
+---
+
+<div align="center">
+
+### 🤝 Patrocínio / Sponsored by
+
+<a href="https://iamarketmaster.com"><img src="./assets/sponsors.svg" alt="Patrocínio: AI Market Master e StockNewsBR" width="850"></a>
+
+**[AI Market Master](https://iamarketmaster.com) · [StockNewsBR](https://stocknewsbr.com)**
+
+</div>
